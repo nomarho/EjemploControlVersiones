@@ -18,3 +18,20 @@ AreaCirculo <- pi*r^2
 l <- 3
 AreaCuadrado <- l^2
 ```
+
+# Área triángulo
+
+```{r}
+b <- 4
+h <- 5
+AreaTriangulo <- b*h/2
+```
+
+#Área rectángulo
+
+```{r}
+b2 <- 4
+h2 <- 5
+AreaRectangulo <- b2*h2
+```
+
