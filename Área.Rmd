@@ -1,0 +1,14 @@
+---
+title: "Áreas"
+author: "Noa Martín Hodar"
+date: "2026-10-15"
+output: html_document
+---
+
+#Área círculo
+
+```{r}
+r <- 0.5
+Area <- pi*r^2
+```
+
