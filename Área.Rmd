@@ -35,3 +35,11 @@ h2 <- 5
 AreaRectangulo <- b2*h2
 ```
 
+# Área trapecio
+
+```{r}
+b <- 4   # Base menor
+B <- 5   # Base mayor
+h <- 2   # Altura
+AreaTrapecio <- (b+B)*h/2
+```
