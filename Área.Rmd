@@ -5,10 +5,16 @@ date: "2026-10-15"
 output: html_document
 ---
 
-#Área círculo
+# Área círculo
 
 ```{r}
 r <- 0.5
-Area <- pi*r^2
+AreaCirculo <- pi*r^2
 ```
 
+# Área cuadrado
+
+```{r}
+l <- 3
+AreaCuadrado <- l^2
+```
